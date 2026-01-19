@@ -1,1 +1,1 @@
-# Todo: Add Logic to Migrate Legacy Data to PostgreSQL server.
+# Todo: Add Logic to Migrate Legacy Data to PostgreSQL server
